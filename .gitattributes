@@ -1,0 +1,2 @@
+conteo/autoscope_*.csv filter=lfs diff=lfs merge=lfs -text
+velocidad/autoscope_*.csv filter=lfs diff=lfs merge=lfs -text
