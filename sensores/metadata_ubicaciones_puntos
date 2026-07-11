@@ -1,0 +1,17 @@
+Metadatos de capa de puntos de ubicación de camaras de conteo
+Se ubican en avenidas indicándose además de las coordenadas, la cuadra o tramo que los contienen.
+
+dsc_avenida: nombre de la avenida donde se encuentra el sensor o camara y en donde se mide el tránsito.
+dsc_int_anterior: nombre de la vía que forma el cruce desde donde vienen los vehículos.
+dsc_int_siguiente: nombre de la vía que forma el cruce donde está el sensor, 
+en general el mismo se encuentra un poco antes de esta vía. 
+El sentido de circulación será desde el cruce con dsc_int_anterior hacia el cruce con dsc_int_siguiente.	
+latitud: coordenada que indica la latitud.
+longitud: coordenada que indica la longitud.
+
+
+
+
+
+ 
+
